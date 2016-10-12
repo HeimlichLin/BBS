@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BBS</string>
+    <string name="test_string">My First Android APP!</string>
+    <string name="activity_text">閱讀文章</string>
+</resources>
